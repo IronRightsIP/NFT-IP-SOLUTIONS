@@ -1,16 +1,14 @@
 {
-<<<<<<<
->>>>>>> 0b346f60db20b3d4f0cfcd0b30b3e5ccb06bd80c
   "name": "nft-ip-solutions",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
-<<<<<<< HEAD
+  "dependencies": {
+    "json": "^11.0.0"
+  },
   "devDependencies": {},
-  "scripts": {"start": "node index.js"
-    },
-=======
->>>>>>> 0b346f60db20b3d4f0cfcd0b30b3e5ccb06bd80c
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/IronRightsIP/NFT-IP-SOLUTIONS.git"
@@ -21,12 +19,6 @@
   "bugs": {
     "url": "https://github.com/IronRightsIP/NFT-IP-SOLUTIONS/issues"
   },
-<<<<<<< HEAD
-  "homepage": "https://github.com/IronRightsIP/NFT-IP-SOLUTIONS#readme"
-=======
   "homepage": "https://github.com/IronRightsIP/NFT-IP-SOLUTIONS#readme",
-  "dependencies": {
-    "json": "^11.0.0"
-  }
->>>>>>> 0b346f60db20b3d4f0cfcd0b30b3e5ccb06bd80c
+  "description": ""
 }
