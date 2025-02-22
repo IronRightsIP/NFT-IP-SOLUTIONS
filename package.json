@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "dependencies": {
-    "json": "^11.0.0"
-  },
-=======
+<<<<<<<
 >>>>>>> 0b346f60db20b3d4f0cfcd0b30b3e5ccb06bd80c
   "name": "nft-ip-solutions",
   "version": "1.0.0",
